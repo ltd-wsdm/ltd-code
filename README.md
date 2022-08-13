@@ -4,9 +4,9 @@
 
 We listed the details for reproducibility and additional experiments analysis here. The directory is as follows:  
 - Details for reproducibility:
-  -  Experimental Environments.
+  -  Experimental environments.
   -  The hyper-parameters used in LTD/FT.
-  -  The settings for Teacher/Student Models and other distillation frameworks.
+  -  The settings for teacher/student models and other distillation frameworks.
   -  Some brief comments on data preparation.
 
 - Additional experiments analysis:
