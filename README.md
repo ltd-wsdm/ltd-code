@@ -1,10 +1,8 @@
-# LTD
+# This is the Supplementary materials for wsdm 2023 submission: Learning to Distill Graph Neural Networks
 
-This is source code for wsdm 2023 submission: Learning to Distill Graph Neural Networks
+# Appendix.pdf
 
-# Appendix
-
-We listed the detailed hyper-parameters for reproducibility in Appendix.pdf
+We listed the detailed hyper-parameters for reproducibility (\empha{i.e.,} ) here
 
 ## Requirements:
 
