@@ -1,6 +1,6 @@
 # This is the Supplementary materials for wsdm 2023 submission: Learning to Distill Graph Neural Networks
 
-## Appendix.pdf
+## Appendix.pdf [[download]](https://github.com/ltd-wsdm/ltd-code/archive/refs/heads/main.zip)
 
 We listed the details for reproducibility and additional experiments analysis here. The directory is as follows:  
 - Details for reproducibility:
