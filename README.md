@@ -1,6 +1,6 @@
 # LTD
 
-This is source code for wsdm 2022 submission: Learning to Distill Graph Neural Networks
+This is source code for wsdm 2023 submission: Learning to Distill Graph Neural Networks
 
 # Appendix
 
