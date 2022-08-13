@@ -1,10 +1,23 @@
 # This is the Supplementary materials for wsdm 2023 submission: Learning to Distill Graph Neural Networks
 
-# Appendix.pdf
+## Appendix.pdf
 
-We listed the detailed hyper-parameters for reproducibility (\empha{i.e.,} ) here
+We listed the details for reproducibility and additional experiments analysis here. The directory is as follows:  
+- Details for reproducibility:
+  -  Experimental Environments.
+  -  The hyper-parameters used in LTD/FT.
+  -  The settings for Teacher/Student Models and other distillation frameworks.
+  -  Some brief comments on data preparation.
 
-## Requirements:
+- Additional experiments analysis:
+  -  Balance hyper-parameter analysis. 
+  -  Performance under different training ratios.
+  -  Generalization gap analysis.
+  -  Original results of baselines.
+
+## Source code
+
+### Requirements:
 
 - dgl==0.6.0
 - Keras==2.4.3
@@ -19,12 +32,12 @@ We listed the detailed hyper-parameters for reproducibility (\empha{i.e.,} ) her
 - torch==1.8.1
 - torchvision==0.9.1
 
-## Data：
+### Data：
 Because the A-Computers dataset is too large, we did not put it in the project file. The dataset can be downloaded from the following link and placed in the directory data/npz:
 
 https://www.dropbox.com/s/26zd460xn4u6gmn/amazon_electronics_computers.npz?dl=0
 
-## Training:
+### Training:
 
 Run student model:
 
